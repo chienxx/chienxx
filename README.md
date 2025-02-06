@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Jump2nj/Jump2nj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![visitors](https://github-readme-stats.vercel.app/api?username=Jump2nj&rank_icon=github&theme=nightowl&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jump2nj&layout=donut&theme=nightowl)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jump2nj&theme=nightowl)
+
