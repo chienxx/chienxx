@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- Hello,I'm Jump2nj
-- ![visitors](https://komarev.com/ghpvc/?username=Jump2nj)
+- Hello,I'm chienxx
+- ![visitors](https://komarev.com/ghpvc/?username=chienxx)
 
 ## Tags
 
@@ -16,8 +16,8 @@
 
 ## Some Statistics About Me
 
-![visitors](https://github-readme-stats.vercel.app/api?username=Jump2nj&rank_icon=github&theme=nightowl&show_icons=true)
+![visitors](https://github-readme-stats.vercel.app/api?username=chienxx&rank_icon=github&theme=nightowl&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jump2nj&layout=donut&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienxx&layout=donut&theme=nightowl)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jump2nj&theme=nightowl)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chienxx&theme=nightowl)
