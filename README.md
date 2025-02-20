@@ -6,7 +6,7 @@
 ## Tags
 
 - 👨‍💻 Backend Development Engineer.
-- 🌱 I’m currently learning nextjs.
+- 🌱 Currently learning nextjs.
 - 🏸 Badminton is the best sport in the world.
 - 🤔 How can the problem be solved more effectively.
 - 🌟 Persist in doing every little thing well.
