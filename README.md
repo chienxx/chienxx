@@ -16,6 +16,6 @@
 
 ## Some Statistics About Me
 
-![visitors](https://github-readme-stats.vercel.app/api?username=chienxx&rank_icon=github&theme=nightowl&show_icons=true)
+![visitors](https://github-readme-stats.vercel.app/api?username=chienxx&rank_icon=github&theme=nightowl&show_icons=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienxx&layout=donut&theme=nightowl)
