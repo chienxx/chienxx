@@ -19,5 +19,3 @@
 ![visitors](https://github-readme-stats.vercel.app/api?username=chienxx&rank_icon=github&theme=nightowl&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chienxx&layout=donut&theme=nightowl)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chienxx&theme=nightowl)
